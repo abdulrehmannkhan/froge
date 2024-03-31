@@ -77,5 +77,27 @@ p.para {
     a.join_footer.w-button {
         background: #005CC9 !IMPORTANT;
     }   
+    img.image-2 {}
 
+    .div-block-15 {
+        margin-top: 26px;
+    }
+    
+    .div-block-10 {
+    }
+    
+    .section_community {
+        position: relative;
+        top: -70px;
+    }
+    
+    img.booby_footer {
+        display: none;
+    }
+    
+    p.para-copy {
+        color: white;
+        filter: drop-shadow(2px 4px 6px black);
+        font-size: 20px;
+    }
 }
