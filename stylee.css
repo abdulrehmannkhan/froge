@@ -1,0 +1,78 @@
+.separator_blue {
+    background: #005cc9;
+}
+
+.separator_in {
+    background: #0075ff;
+}
+
+p.para {
+    color: #005cc9;
+}
+.menu_button:hover {
+    color: #005cc9;
+}
+
+.toke_details {
+    background: #005cc9;
+}
+
+.join_button {
+    background: #005cc9;
+}
+
+.div-block-9 {
+    background: #005cc9;
+    border-color: black;
+}
+
+.separator_blue2 {
+    background: #005cc9;
+}
+.block_how {
+    width: 100%;
+}
+
+@media (max-width: 480px) {
+
+    .section_hero {
+        margin-top: 60px;
+    }
+    
+    img.booby {
+        width: 100%;
+        position: relative;
+        top: 40px;
+    }
+    
+    .toke_details {
+        width: 100%;
+    }
+    
+    img.slider {
+        display: none;
+    }
+    
+    .coin_bg {
+        height: 0;
+    }
+    
+    img.image-5 {
+        object-fit: contain;
+        height: auto;
+    }
+    
+    .section_community {
+        margin-top: 0 !important;
+        padding-top: 0 !IMPORTANT;
+    }
+    
+    p.para-copy {
+        color: #005cc9;
+    }
+    
+    a.join_footer.w-button {
+        background: #005CC9 !IMPORTANT;
+    }   
+
+}
