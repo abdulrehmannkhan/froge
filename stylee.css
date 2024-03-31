@@ -32,6 +32,9 @@ p.para {
 .block_how {
     width: 100%;
 }
+.join_footer {
+    background: #005cc9;
+}
 
 @media (max-width: 480px) {
 
